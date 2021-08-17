@@ -1,0 +1,1 @@
+{"version":3,"sources":["game_assistant/config.cljs"],"mappings":";AAEA,AAAKA,qCACMC","names":["game-assistant.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns game-assistant.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}
